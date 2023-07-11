@@ -27,6 +27,7 @@ limited edition packaging?
 7. Product Development
    a. Which area of business should we focus more on our product development? 
       (Branding/taste/availability
+   
 Image 1:
 ![1](https://github.com/manjeetkumawat/AtliQ_Hospitality_Analysis_PowerBI/assets/131505771/bca214bc-21cb-4716-9e16-fd414b726ccf)
 
