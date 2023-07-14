@@ -39,3 +39,10 @@ Image 3:
 
 Image 4:
 ![4](https://github.com/manjeetkumawat/AtliQ_Hospitality_Analysis_PowerBI/assets/131505771/e67b1be4-ac2b-49ec-a1ec-acd6c650e6f3)
+
+#Recommendations for CodeX
+Image 5:
+![5](https://github.com/manjeetkumawat/Food-Beverage-Industry/assets/131505771/1d28b8bd-7e12-443e-a156-c34d073903ba)
+
+Image 6: 
+![6](https://github.com/manjeetkumawat/Food-Beverage-Industry/assets/131505771/2abed682-9933-4a35-bbea-75cff10a671d)
